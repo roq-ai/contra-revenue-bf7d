@@ -1,0 +1,2022 @@
+[
+  {
+    "keyword": [
+      {
+        "id": "cbef78c2-b916-4c45-bd86-e0bf1649ecf4",
+        "word": "technology",
+        "created_at": "2023-09-13T06:08:47.234Z",
+        "updated_at": "2023-09-12T17:49:35.979Z"
+      },
+      {
+        "id": "e356f9a0-d116-4437-8a9d-fae1fe990042",
+        "word": "innovation",
+        "created_at": "2023-09-13T02:12:07.272Z",
+        "updated_at": "2023-09-12T23:23:20.306Z"
+      },
+      {
+        "id": "4f247000-7ed9-4170-8e44-0ebdd019db20",
+        "word": "sustainability",
+        "created_at": "2023-09-12T18:20:55.675Z",
+        "updated_at": "2023-09-12T21:39:54.351Z"
+      },
+      {
+        "id": "78d2d97d-46d0-46c5-9f5b-590091776ac9",
+        "word": "healthcare",
+        "created_at": "2023-09-12T19:35:29.265Z",
+        "updated_at": "2023-09-13T03:46:58.745Z"
+      },
+      {
+        "id": "24c3a5a1-c8e7-42dc-87ad-3be1defe4c78",
+        "word": "environment",
+        "created_at": "2023-09-12T20:35:17.041Z",
+        "updated_at": "2023-09-12T13:22:45.181Z"
+      }
+    ],
+    "article": [
+      {
+        "id": "c8f37dc3-89bf-47f4-ba7e-6e19b49f9a00",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Technology",
+        "created_at": "2023-09-13T08:35:28.381Z",
+        "updated_at": "2023-09-12T23:35:01.487Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "52d02302-83eb-4195-b756-12ec2cdf30f3",
+        "title": "Exploring Sustainable Fashion Trends",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "category": "Fashion",
+        "created_at": "2023-09-12T11:28:28.704Z",
+        "updated_at": "2023-09-12T18:55:42.374Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7e83e0ef-f1fb-4038-a74b-75b83dcc3d9a",
+        "title": "Advancements in Healthcare Technology",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "category": "Healthcare",
+        "created_at": "2023-09-12T14:11:28.391Z",
+        "updated_at": "2023-09-12T14:00:15.626Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dbafef44-3774-4d3f-9650-71d9d8b70827",
+        "title": "The Importance of Environmental Conservation",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "category": "Environment",
+        "created_at": "2023-09-12T22:48:43.585Z",
+        "updated_at": "2023-09-12T12:47:38.504Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "64f17b11-767a-41b4-9219-877f81e63106",
+        "title": "Strategies for Business Growth",
+        "content": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+        "category": "Business",
+        "created_at": "2023-09-12T22:37:53.272Z",
+        "updated_at": "2023-09-12T13:17:16.505Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "history": [
+      {
+        "id": "cfe75d0c-a204-441d-97e5-5b76c3c67d2e",
+        "change_log": "Updated user profile information",
+        "created_at": "2023-09-13T08:23:10.765Z",
+        "updated_at": "2023-09-12T18:05:40.403Z",
+        "article_id": "64f17b11-767a-41b4-9219-877f81e63106"
+      },
+      {
+        "id": "946e6930-780e-4b24-8332-507292269c8f",
+        "change_log": "Fixed bug in the login system",
+        "created_at": "2023-09-13T09:17:54.405Z",
+        "updated_at": "2023-09-12T15:07:21.317Z",
+        "article_id": "64f17b11-767a-41b4-9219-877f81e63106"
+      },
+      {
+        "id": "46bd4cf3-f3af-4861-b45a-a8e1a0f770bf",
+        "change_log": "Implemented new feature for data analysis",
+        "created_at": "2023-09-12T21:29:14.260Z",
+        "updated_at": "2023-09-13T02:21:56.541Z",
+        "article_id": "64f17b11-767a-41b4-9219-877f81e63106"
+      },
+      {
+        "id": "a61695dc-ee35-4506-ba21-b460aa8099b4",
+        "change_log": "Resolved performance issues",
+        "created_at": "2023-09-13T00:36:33.934Z",
+        "updated_at": "2023-09-13T06:40:45.622Z",
+        "article_id": "dbafef44-3774-4d3f-9650-71d9d8b70827"
+      },
+      {
+        "id": "951271a4-efe0-4e44-81a1-cfe8c42d7c4a",
+        "change_log": "Optimized database queries",
+        "created_at": "2023-09-12T13:06:44.742Z",
+        "updated_at": "2023-09-12T17:42:04.479Z",
+        "article_id": "64f17b11-767a-41b4-9219-877f81e63106"
+      }
+    ],
+    "article_keyword": [
+      {
+        "id": "6b597c8f-bddc-464a-8193-7b2b4a5311c0",
+        "created_at": "2023-09-12T21:08:52.499Z",
+        "updated_at": "2023-09-12T17:10:58.374Z",
+        "article_id": "64f17b11-767a-41b4-9219-877f81e63106",
+        "keyword_id": "cbef78c2-b916-4c45-bd86-e0bf1649ecf4"
+      },
+      {
+        "id": "f443a9fc-6474-47df-adc6-2fb8ce58542d",
+        "created_at": "2023-09-13T06:52:42.050Z",
+        "updated_at": "2023-09-13T05:36:24.198Z",
+        "article_id": "dbafef44-3774-4d3f-9650-71d9d8b70827",
+        "keyword_id": "24c3a5a1-c8e7-42dc-87ad-3be1defe4c78"
+      },
+      {
+        "id": "a28a5101-fa43-42d4-adf9-52e2a1be5ccb",
+        "created_at": "2023-09-12T14:56:28.608Z",
+        "updated_at": "2023-09-12T21:39:59.461Z",
+        "article_id": "64f17b11-767a-41b4-9219-877f81e63106",
+        "keyword_id": "cbef78c2-b916-4c45-bd86-e0bf1649ecf4"
+      },
+      {
+        "id": "40f19e52-883b-4602-a28a-420346eb0439",
+        "created_at": "2023-09-13T02:40:32.098Z",
+        "updated_at": "2023-09-12T10:44:09.192Z",
+        "article_id": "52d02302-83eb-4195-b756-12ec2cdf30f3",
+        "keyword_id": "e356f9a0-d116-4437-8a9d-fae1fe990042"
+      },
+      {
+        "id": "5ea70148-0296-4565-bad4-f48ce0c04175",
+        "created_at": "2023-09-12T16:52:51.794Z",
+        "updated_at": "2023-09-13T09:21:29.937Z",
+        "article_id": "dbafef44-3774-4d3f-9650-71d9d8b70827",
+        "keyword_id": "cbef78c2-b916-4c45-bd86-e0bf1649ecf4"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "29f71e0a-e63d-40c1-8dc8-eb22277ea4cb",
+        "email": "Emil_Daniel74@yahoo.com",
+        "firstName": "Ezekiel",
+        "lastName": "O'Keefe-Streich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/21819275",
+        "tenantId": null
+      },
+      {
+        "reference": "508c5968-2cd0-4919-b89a-3dad26e86487",
+        "email": "Palma93@gmail.com",
+        "firstName": "Laury",
+        "lastName": "Casper",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/102.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b2629825-e11f-4abe-a097-c8a3653f0122",
+        "email": "Holden.Ritchie37@yahoo.com",
+        "firstName": "Casandra",
+        "lastName": "Goodwin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69202108",
+        "tenantId": null
+      },
+      {
+        "reference": "4a0b7446-69b1-4b03-8466-ae9442406015",
+        "email": "Cortney.Bauch@gmail.com",
+        "firstName": "Kim",
+        "lastName": "Stark",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/500.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "62c135c5-027b-4a96-a10c-7a36dc83b354",
+        "email": "Brendon.Smith@gmail.com",
+        "firstName": "Delores",
+        "lastName": "Johns",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64592061",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "keyword": [
+      {
+        "id": "3b47deed-9d88-4ead-aea4-fd1ccafa0e74",
+        "word": "technology",
+        "created_at": "2023-09-12T14:11:31.653Z",
+        "updated_at": "2023-09-12T15:17:35.945Z"
+      },
+      {
+        "id": "8d0d5b6d-5291-4261-84c8-28d345c20c9f",
+        "word": "innovation",
+        "created_at": "2023-09-13T05:46:26.178Z",
+        "updated_at": "2023-09-12T13:01:57.153Z"
+      },
+      {
+        "id": "41fbd584-be58-4a53-baf3-0d440ffa0ac4",
+        "word": "sustainability",
+        "created_at": "2023-09-12T16:28:25.774Z",
+        "updated_at": "2023-09-12T16:58:22.800Z"
+      },
+      {
+        "id": "ad259dc3-ef73-4c40-9e8b-20c116504f22",
+        "word": "education",
+        "created_at": "2023-09-13T03:20:49.614Z",
+        "updated_at": "2023-09-13T05:16:55.853Z"
+      },
+      {
+        "id": "803fa3a3-8fee-4e0d-97ae-8fedc4a4befb",
+        "word": "healthcare",
+        "created_at": "2023-09-12T12:40:32.428Z",
+        "updated_at": "2023-09-13T08:37:39.549Z"
+      }
+    ],
+    "article": [
+      {
+        "id": "5dbfd61b-69aa-441c-a1ef-6a6d3f70b5f8",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Technology",
+        "created_at": "2023-09-12T21:09:48.289Z",
+        "updated_at": "2023-09-12T18:18:49.708Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "91526a01-b6a8-4db5-b9c6-3b07dc9e8abb",
+        "title": "Effective Strategies for Business Growth",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "category": "Business",
+        "created_at": "2023-09-12T23:35:28.146Z",
+        "updated_at": "2023-09-13T03:41:27.290Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "79823d59-fa49-4378-b402-ff90ea4a8b2c",
+        "title": "The Importance of Sustainable Living",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "category": "Environment",
+        "created_at": "2023-09-13T02:43:48.293Z",
+        "updated_at": "2023-09-13T07:13:01.282Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "00e2a332-b6b5-419e-bc6b-3dc3b40831b9",
+        "title": "Advancements in Medical Research",
+        "content": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+        "category": "Health",
+        "created_at": "2023-09-13T04:22:44.803Z",
+        "updated_at": "2023-09-12T12:58:50.086Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "534e5938-05ab-4a58-9f8a-314875141df3",
+        "title": "The Role of Education in Society",
+        "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+        "category": "Education",
+        "created_at": "2023-09-12T21:45:02.534Z",
+        "updated_at": "2023-09-13T09:24:38.940Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "history": [
+      {
+        "id": "c23c31f7-ccdd-4671-b166-d2c93177efe3",
+        "change_log": "Added new feature XYZ",
+        "created_at": "2023-09-13T04:43:04.277Z",
+        "updated_at": "2023-09-12T15:37:23.859Z",
+        "article_id": "91526a01-b6a8-4db5-b9c6-3b07dc9e8abb"
+      },
+      {
+        "id": "8fd1764f-b427-4ac9-9e1e-ef74dd479229",
+        "change_log": "Fixed bug in module ABC",
+        "created_at": "2023-09-13T04:47:08.291Z",
+        "updated_at": "2023-09-13T01:41:11.467Z",
+        "article_id": "5dbfd61b-69aa-441c-a1ef-6a6d3f70b5f8"
+      },
+      {
+        "id": "87ff13ac-055c-484e-a77d-8a0e85e52b76",
+        "change_log": "Optimized performance of system",
+        "created_at": "2023-09-13T02:08:51.223Z",
+        "updated_at": "2023-09-12T21:44:30.538Z",
+        "article_id": "5dbfd61b-69aa-441c-a1ef-6a6d3f70b5f8"
+      },
+      {
+        "id": "e98fad5f-0635-4368-89d0-8fec023c06ee",
+        "change_log": "Implemented security enhancements",
+        "created_at": "2023-09-12T16:20:47.989Z",
+        "updated_at": "2023-09-13T09:45:48.837Z",
+        "article_id": "534e5938-05ab-4a58-9f8a-314875141df3"
+      },
+      {
+        "id": "d896bba9-ca31-431e-b078-9ef28d6fc48c",
+        "change_log": "Updated user interface design",
+        "created_at": "2023-09-12T14:17:41.097Z",
+        "updated_at": "2023-09-12T18:48:06.871Z",
+        "article_id": "534e5938-05ab-4a58-9f8a-314875141df3"
+      }
+    ],
+    "article_keyword": [
+      {
+        "id": "a474272a-ed7a-402a-a438-f4f3491f0fff",
+        "created_at": "2023-09-13T07:59:22.883Z",
+        "updated_at": "2023-09-13T06:19:38.192Z",
+        "article_id": "00e2a332-b6b5-419e-bc6b-3dc3b40831b9",
+        "keyword_id": "8d0d5b6d-5291-4261-84c8-28d345c20c9f"
+      },
+      {
+        "id": "0de692c3-cf64-4082-a962-c40065ae75ce",
+        "created_at": "2023-09-12T22:49:58.252Z",
+        "updated_at": "2023-09-12T11:29:43.514Z",
+        "article_id": "534e5938-05ab-4a58-9f8a-314875141df3",
+        "keyword_id": "ad259dc3-ef73-4c40-9e8b-20c116504f22"
+      },
+      {
+        "id": "2e227650-c6cd-4bad-96f2-95ffe9aff27b",
+        "created_at": "2023-09-13T06:29:39.922Z",
+        "updated_at": "2023-09-12T15:54:23.317Z",
+        "article_id": "534e5938-05ab-4a58-9f8a-314875141df3",
+        "keyword_id": "803fa3a3-8fee-4e0d-97ae-8fedc4a4befb"
+      },
+      {
+        "id": "c9d9d8f2-f7cc-4493-a5c2-0eafc4799c4e",
+        "created_at": "2023-09-12T13:31:23.272Z",
+        "updated_at": "2023-09-13T02:08:32.045Z",
+        "article_id": "00e2a332-b6b5-419e-bc6b-3dc3b40831b9",
+        "keyword_id": "3b47deed-9d88-4ead-aea4-fd1ccafa0e74"
+      },
+      {
+        "id": "119ad1d8-b8d7-4914-9397-6618f3d58a06",
+        "created_at": "2023-09-12T13:50:32.190Z",
+        "updated_at": "2023-09-13T03:05:17.725Z",
+        "article_id": "00e2a332-b6b5-419e-bc6b-3dc3b40831b9",
+        "keyword_id": "3b47deed-9d88-4ead-aea4-fd1ccafa0e74"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8bbd3af6-631b-4d34-bf51-ef68b01049e2",
+        "email": "Junior95@gmail.com",
+        "firstName": "Samara",
+        "lastName": "Reilly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1040.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e8015ac0-e861-4097-a4c9-8bad24e20465",
+        "email": "Franz.Wunsch73@hotmail.com",
+        "firstName": "Katlyn",
+        "lastName": "Batz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/49672672",
+        "tenantId": null
+      },
+      {
+        "reference": "0ac945ae-024b-40e1-ad98-79e3248c3323",
+        "email": "Marina48@hotmail.com",
+        "firstName": "Estrella",
+        "lastName": "Runolfsson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/947.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "298f9b04-bdbb-4d17-baa6-2d2b3f46b09e",
+        "email": "Annamae.Shields@yahoo.com",
+        "firstName": "Milo",
+        "lastName": "Torphy-Kuhn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80966676",
+        "tenantId": null
+      },
+      {
+        "reference": "24199af5-2af9-4afe-800f-1b8fddf10126",
+        "email": "Katelynn.Gleichner-Thiel8@yahoo.com",
+        "firstName": "Nicolas",
+        "lastName": "Gutkowski",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/284.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "keyword": [
+      {
+        "id": "0853e23a-5c83-44af-8c83-ab23b8655ab9",
+        "word": "technology",
+        "created_at": "2023-09-12T14:22:57.509Z",
+        "updated_at": "2023-09-13T05:28:49.633Z"
+      },
+      {
+        "id": "0c7f9457-aceb-4230-a85e-0ecfb7a62b0b",
+        "word": "innovation",
+        "created_at": "2023-09-12T19:26:38.769Z",
+        "updated_at": "2023-09-12T10:18:36.349Z"
+      },
+      {
+        "id": "075e4b21-083d-44aa-812c-672aca00b789",
+        "word": "sustainability",
+        "created_at": "2023-09-13T07:16:14.111Z",
+        "updated_at": "2023-09-13T08:24:46.890Z"
+      },
+      {
+        "id": "1bb3b981-f8e6-4e83-9233-61edce5e96cc",
+        "word": "healthcare",
+        "created_at": "2023-09-13T09:02:24.729Z",
+        "updated_at": "2023-09-12T15:29:42.638Z"
+      },
+      {
+        "id": "c8991699-d9cb-4b98-a16a-edf604f1fbf7",
+        "word": "education",
+        "created_at": "2023-09-12T14:28:30.739Z",
+        "updated_at": "2023-09-12T15:15:40.869Z"
+      }
+    ],
+    "article": [
+      {
+        "id": "fb10e281-b0e2-4105-948c-059acca368b1",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Technology",
+        "created_at": "2023-09-13T00:49:57.431Z",
+        "updated_at": "2023-09-12T11:02:23.154Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "85548876-eea0-46c9-811f-d960566d091c",
+        "title": "Exploring Renewable Energy Sources",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "category": "Environment",
+        "created_at": "2023-09-13T07:28:16.235Z",
+        "updated_at": "2023-09-12T14:03:15.554Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ee53ee69-67c4-448c-80c0-0084c1ed2d92",
+        "title": "Effective Strategies for Team Collaboration",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "category": "Business",
+        "created_at": "2023-09-12T10:52:27.516Z",
+        "updated_at": "2023-09-12T18:16:56.707Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3047d5ae-f24b-4a51-89cb-1f10894d0e69",
+        "title": "The Impact of Climate Change on Biodiversity",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "category": "Science",
+        "created_at": "2023-09-12T10:44:10.517Z",
+        "updated_at": "2023-09-12T20:33:11.234Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f80be9f7-b9e1-4d99-8dfb-08b28b073253",
+        "title": "Advancements in Medical Research",
+        "content": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+        "category": "Health",
+        "created_at": "2023-09-13T00:56:58.764Z",
+        "updated_at": "2023-09-12T10:19:07.394Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "history": [
+      {
+        "id": "78c40fdb-6d9d-49de-9539-eb25959dd3ec",
+        "change_log": "Updated user authentication process",
+        "created_at": "2023-09-12T10:24:10.580Z",
+        "updated_at": "2023-09-13T01:59:37.792Z",
+        "article_id": "fb10e281-b0e2-4105-948c-059acca368b1"
+      },
+      {
+        "id": "7aeee96d-e453-43fa-b014-d57330f61e90",
+        "change_log": "Fixed bug in data processing module",
+        "created_at": "2023-09-12T22:10:25.380Z",
+        "updated_at": "2023-09-13T09:16:50.876Z",
+        "article_id": "3047d5ae-f24b-4a51-89cb-1f10894d0e69"
+      },
+      {
+        "id": "e74463a1-5d2f-4a33-92ec-6ceb73d88fbb",
+        "change_log": "Implemented new feature for data visualization",
+        "created_at": "2023-09-12T18:54:06.949Z",
+        "updated_at": "2023-09-12T16:00:30.167Z",
+        "article_id": "ee53ee69-67c4-448c-80c0-0084c1ed2d92"
+      },
+      {
+        "id": "18e77bbc-3687-4717-8f2d-92f2d2bca408",
+        "change_log": "Optimized database queries for improved performance",
+        "created_at": "2023-09-13T09:52:53.100Z",
+        "updated_at": "2023-09-12T19:10:00.740Z",
+        "article_id": "ee53ee69-67c4-448c-80c0-0084c1ed2d92"
+      },
+      {
+        "id": "adfd5eb2-50db-4689-b2da-0652962cf362",
+        "change_log": "Resolved compatibility issues with latest operating system",
+        "created_at": "2023-09-13T08:40:16.113Z",
+        "updated_at": "2023-09-13T07:54:02.679Z",
+        "article_id": "fb10e281-b0e2-4105-948c-059acca368b1"
+      }
+    ],
+    "article_keyword": [
+      {
+        "id": "f4083e6f-ab44-4829-bf81-7427449993fc",
+        "created_at": "2023-09-12T22:36:10.173Z",
+        "updated_at": "2023-09-12T12:44:12.046Z",
+        "article_id": "f80be9f7-b9e1-4d99-8dfb-08b28b073253",
+        "keyword_id": "1bb3b981-f8e6-4e83-9233-61edce5e96cc"
+      },
+      {
+        "id": "2a6e660d-2602-4108-99fa-9e3465acb415",
+        "created_at": "2023-09-12T10:28:55.381Z",
+        "updated_at": "2023-09-12T13:21:04.588Z",
+        "article_id": "85548876-eea0-46c9-811f-d960566d091c",
+        "keyword_id": "c8991699-d9cb-4b98-a16a-edf604f1fbf7"
+      },
+      {
+        "id": "717b9c85-c265-4e8a-bb01-311724b270dd",
+        "created_at": "2023-09-12T22:36:17.792Z",
+        "updated_at": "2023-09-12T11:30:18.515Z",
+        "article_id": "fb10e281-b0e2-4105-948c-059acca368b1",
+        "keyword_id": "075e4b21-083d-44aa-812c-672aca00b789"
+      },
+      {
+        "id": "8fc54108-a08d-45dd-8bb5-e2cb60f022dd",
+        "created_at": "2023-09-13T04:56:19.772Z",
+        "updated_at": "2023-09-13T07:38:02.131Z",
+        "article_id": "fb10e281-b0e2-4105-948c-059acca368b1",
+        "keyword_id": "0c7f9457-aceb-4230-a85e-0ecfb7a62b0b"
+      },
+      {
+        "id": "96bd5850-9f7f-40c2-9e5c-8a33b9040d3b",
+        "created_at": "2023-09-12T15:46:51.850Z",
+        "updated_at": "2023-09-12T11:18:42.762Z",
+        "article_id": "ee53ee69-67c4-448c-80c0-0084c1ed2d92",
+        "keyword_id": "0853e23a-5c83-44af-8c83-ab23b8655ab9"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "83a2abb2-7855-4aa5-afe0-664bd38169cc",
+        "email": "Madelynn.Yost@hotmail.com",
+        "firstName": "Paxton",
+        "lastName": "Mertz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59140474",
+        "tenantId": null
+      },
+      {
+        "reference": "e1eb5d0e-473c-43e5-b125-23fa5be641d3",
+        "email": "Lydia_Cremin@hotmail.com",
+        "firstName": "Wilburn",
+        "lastName": "Bode",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/312.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "68b55673-be5b-43db-a78e-105bf620fe20",
+        "email": "Floyd.Auer24@gmail.com",
+        "firstName": "Evert",
+        "lastName": "Wuckert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/614.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b5fe959a-4227-4b92-a1c7-9ff998594257",
+        "email": "Dereck_Beier@gmail.com",
+        "firstName": "Hillard",
+        "lastName": "Kshlerin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/500.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0a1f4dff-c14d-4df1-92ad-f5ad38225814",
+        "email": "Petra_Brakus@hotmail.com",
+        "firstName": "Benjamin",
+        "lastName": "Bayer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67556866",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "keyword": [
+      {
+        "id": "14e879a3-c698-4ede-95e3-5563ed0e088e",
+        "word": "technology",
+        "created_at": "2023-09-12T19:01:31.529Z",
+        "updated_at": "2023-09-13T03:28:31.696Z"
+      },
+      {
+        "id": "39d61d6e-954b-416b-8759-f2d8d657665f",
+        "word": "environment",
+        "created_at": "2023-09-12T17:11:09.982Z",
+        "updated_at": "2023-09-12T11:49:26.385Z"
+      },
+      {
+        "id": "d669ee1d-2f12-4958-a925-de195affed47",
+        "word": "business",
+        "created_at": "2023-09-13T03:50:01.181Z",
+        "updated_at": "2023-09-13T08:13:36.614Z"
+      },
+      {
+        "id": "01fc0fd7-ec5b-45f9-9801-e3495c730daf",
+        "word": "healthcare",
+        "created_at": "2023-09-13T02:41:15.141Z",
+        "updated_at": "2023-09-13T05:08:08.394Z"
+      },
+      {
+        "id": "2f13c437-eb4e-4534-a36e-811075ce0e27",
+        "word": "education",
+        "created_at": "2023-09-12T21:10:29.093Z",
+        "updated_at": "2023-09-12T22:49:29.467Z"
+      }
+    ],
+    "article": [
+      {
+        "id": "472e4522-c59c-4e6f-9a43-07b9f0b06413",
+        "title": "The Impact of Technology on Society",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at magna euismod, efficitur turpis a, facilisis nisl.",
+        "category": "Technology",
+        "created_at": "2023-09-12T10:42:28.276Z",
+        "updated_at": "2023-09-12T12:21:48.389Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c4607290-6dc4-4081-ac0b-8bc483f948a6",
+        "title": "Environmental Conservation Strategies for a Sustainable Future",
+        "content": "Nullam scelerisque justo sed tellus posuere, in pharetra odio tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Mauris vel enim auctor, iaculis mauris eget, eleifend mauris.",
+        "category": "Environment",
+        "created_at": "2023-09-12T14:30:51.142Z",
+        "updated_at": "2023-09-12T23:16:17.221Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0ec7711a-b967-44ad-8415-2ac56991222e",
+        "title": "Business Trends to Watch in the Next Decade",
+        "content": "Fusce euismod sem at tortor aliquam, ac ultricies mauris pellentesque. Aliquam erat volutpat. Sed non est sit amet libero lobortis iaculis.",
+        "category": "Business",
+        "created_at": "2023-09-12T21:23:12.310Z",
+        "updated_at": "2023-09-12T17:26:40.534Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5844b283-e962-49fa-bfe7-1e53e99c050a",
+        "title": "Revolutionizing Healthcare with Digital Solutions",
+        "content": "Etiam sit amet dui in nisl lacinia laoreet. Sed sit amet neque eget purus eleifend interdum. Nulla facilisi. In euismod sapien vel dapibus feugiat.",
+        "category": "Healthcare",
+        "created_at": "2023-09-12T18:17:43.473Z",
+        "updated_at": "2023-09-12T20:52:23.825Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "977ea36a-047e-4f7f-be81-687d2f9f0496",
+        "title": "The Importance of Education in Today's World",
+        "content": "Praesent ut tortor sit amet mauris efficitur fermentum. Curabitur at est a tellus posuere auctor. Proin id enim ac nunc semper tristique.",
+        "category": "Education",
+        "created_at": "2023-09-13T01:43:23.669Z",
+        "updated_at": "2023-09-13T08:09:05.315Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "history": [
+      {
+        "id": "b7de99f2-40af-497f-b8da-fc4933646f45",
+        "change_log": "Updated user interface design",
+        "created_at": "2023-09-13T03:47:42.540Z",
+        "updated_at": "2023-09-12T10:52:12.833Z",
+        "article_id": "5844b283-e962-49fa-bfe7-1e53e99c050a"
+      },
+      {
+        "id": "413e5bd2-e42d-449c-bf6e-3af0c31f8614",
+        "change_log": "Implemented new feature",
+        "created_at": "2023-09-13T04:20:27.740Z",
+        "updated_at": "2023-09-12T11:20:38.246Z",
+        "article_id": "c4607290-6dc4-4081-ac0b-8bc483f948a6"
+      },
+      {
+        "id": "a25b481f-8f98-49c7-be8f-ef04c0c640c2",
+        "change_log": "Resolved bug in authentication system",
+        "created_at": "2023-09-12T10:11:07.649Z",
+        "updated_at": "2023-09-13T06:22:04.377Z",
+        "article_id": "c4607290-6dc4-4081-ac0b-8bc483f948a6"
+      },
+      {
+        "id": "eef15ea6-6450-4528-9afa-c248f2b3929e",
+        "change_log": "Optimized database performance",
+        "created_at": "2023-09-13T09:06:29.643Z",
+        "updated_at": "2023-09-12T17:33:42.416Z",
+        "article_id": "c4607290-6dc4-4081-ac0b-8bc483f948a6"
+      },
+      {
+        "id": "286d26d4-6e4e-426a-90fe-86f33cc69a7c",
+        "change_log": "Added support for multiple languages",
+        "created_at": "2023-09-12T13:12:34.104Z",
+        "updated_at": "2023-09-12T17:27:21.498Z",
+        "article_id": "5844b283-e962-49fa-bfe7-1e53e99c050a"
+      }
+    ],
+    "article_keyword": [
+      {
+        "id": "03a20f30-bed3-4dfe-bad6-f5b79150525c",
+        "created_at": "2023-09-13T06:14:12.248Z",
+        "updated_at": "2023-09-13T05:16:33.507Z",
+        "article_id": "c4607290-6dc4-4081-ac0b-8bc483f948a6",
+        "keyword_id": "d669ee1d-2f12-4958-a925-de195affed47"
+      },
+      {
+        "id": "2f27ef48-d6d7-42b6-bb02-bc3460fffdb1",
+        "created_at": "2023-09-12T14:41:17.931Z",
+        "updated_at": "2023-09-13T02:25:08.792Z",
+        "article_id": "0ec7711a-b967-44ad-8415-2ac56991222e",
+        "keyword_id": "14e879a3-c698-4ede-95e3-5563ed0e088e"
+      },
+      {
+        "id": "7f00a5fb-21c9-4175-a17e-d9865874acf9",
+        "created_at": "2023-09-13T09:44:01.382Z",
+        "updated_at": "2023-09-13T05:14:27.103Z",
+        "article_id": "977ea36a-047e-4f7f-be81-687d2f9f0496",
+        "keyword_id": "d669ee1d-2f12-4958-a925-de195affed47"
+      },
+      {
+        "id": "d68286f6-9ed2-4f31-88ac-8ad59a8bfcd6",
+        "created_at": "2023-09-13T06:01:39.259Z",
+        "updated_at": "2023-09-13T09:53:27.835Z",
+        "article_id": "0ec7711a-b967-44ad-8415-2ac56991222e",
+        "keyword_id": "14e879a3-c698-4ede-95e3-5563ed0e088e"
+      },
+      {
+        "id": "42934c82-1573-49f9-b4bc-f157ff3a76be",
+        "created_at": "2023-09-13T01:58:08.479Z",
+        "updated_at": "2023-09-13T02:00:43.088Z",
+        "article_id": "5844b283-e962-49fa-bfe7-1e53e99c050a",
+        "keyword_id": "14e879a3-c698-4ede-95e3-5563ed0e088e"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d4fd9c18-6b6c-4066-bc74-9ec3c464c974",
+        "email": "Dedric_McClure@yahoo.com",
+        "firstName": "Columbus",
+        "lastName": "Corwin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/68114320",
+        "tenantId": null
+      },
+      {
+        "reference": "2350bb9f-2db7-4515-b887-c0c44f7c4bef",
+        "email": "Kayla66@yahoo.com",
+        "firstName": "Emile",
+        "lastName": "Huel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/914.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8c073b0b-54e0-4a15-bc46-f8ea4d5d9bb6",
+        "email": "Cedrick.Schinner57@gmail.com",
+        "firstName": "Isobel",
+        "lastName": "Schinner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1147.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "062ad77b-cf5e-424f-b0df-e904da993954",
+        "email": "Wilber.Paucek-Kiehn91@gmail.com",
+        "firstName": "Janet",
+        "lastName": "Larson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/634.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "941785bf-e545-440e-b8a8-e2ad56508ef7",
+        "email": "Reta_Graham@gmail.com",
+        "firstName": "Geovanni",
+        "lastName": "Pfeffer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/500.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "keyword": [
+      {
+        "id": "0d17551a-15dc-468c-90bc-553962df1864",
+        "word": "technology",
+        "created_at": "2023-09-13T02:31:26.638Z",
+        "updated_at": "2023-09-12T16:08:10.532Z"
+      },
+      {
+        "id": "3bbd1e5c-32d2-4e1d-8c02-d4081ef23072",
+        "word": "innovation",
+        "created_at": "2023-09-13T07:20:59.079Z",
+        "updated_at": "2023-09-13T05:55:05.160Z"
+      },
+      {
+        "id": "d3f43359-2491-4e60-9595-26cbd790a2b9",
+        "word": "sustainability",
+        "created_at": "2023-09-13T02:19:06.826Z",
+        "updated_at": "2023-09-12T13:15:13.180Z"
+      },
+      {
+        "id": "4147e3eb-8109-4f28-955c-001fdee13792",
+        "word": "healthcare",
+        "created_at": "2023-09-13T02:26:27.690Z",
+        "updated_at": "2023-09-12T17:21:30.971Z"
+      },
+      {
+        "id": "2b17d70d-d397-47f9-bda7-e0282d604f52",
+        "word": "environment",
+        "created_at": "2023-09-12T16:38:49.654Z",
+        "updated_at": "2023-09-12T18:09:45.687Z"
+      }
+    ],
+    "article": [
+      {
+        "id": "b9d106a1-171a-489d-a7eb-09b25ac43c55",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Technology",
+        "created_at": "2023-09-12T12:03:45.165Z",
+        "updated_at": "2023-09-12T13:12:57.828Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f9b161cc-9554-4877-ac7b-3c189552f4bd",
+        "title": "10 Tips for a Sustainable Lifestyle",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "category": "Sustainability",
+        "created_at": "2023-09-12T21:25:42.540Z",
+        "updated_at": "2023-09-12T16:57:59.237Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4b05ade0-724c-47b6-979d-d0dc289ee6c4",
+        "title": "Innovations in Healthcare Technology",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "category": "Healthcare",
+        "created_at": "2023-09-12T13:01:04.075Z",
+        "updated_at": "2023-09-13T08:23:21.015Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c143be86-154a-47ac-9452-401ab4cc5aba",
+        "title": "Exploring the World of Fashion",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "category": "Fashion",
+        "created_at": "2023-09-13T05:42:52.508Z",
+        "updated_at": "2023-09-12T20:39:55.685Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c09af8bb-c955-4422-b29a-67c3f0ad2bcb",
+        "title": "The Importance of Environmental Conservation",
+        "content": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+        "category": "Environment",
+        "created_at": "2023-09-12T20:28:54.551Z",
+        "updated_at": "2023-09-12T19:45:20.864Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "history": [
+      {
+        "id": "80b85a4a-4a5d-447c-8ae4-69a4fbc59bb0",
+        "change_log": "Updated user interface design",
+        "created_at": "2023-09-12T12:48:42.188Z",
+        "updated_at": "2023-09-13T09:50:39.689Z",
+        "article_id": "4b05ade0-724c-47b6-979d-d0dc289ee6c4"
+      },
+      {
+        "id": "f29f18e3-5de3-4f1e-a0df-f613554d126b",
+        "change_log": "Fixed bug in data processing module",
+        "created_at": "2023-09-12T15:48:33.705Z",
+        "updated_at": "2023-09-12T13:42:01.808Z",
+        "article_id": "c143be86-154a-47ac-9452-401ab4cc5aba"
+      },
+      {
+        "id": "cc0d9a66-9c05-42c5-8bbc-d4da39c3aaba",
+        "change_log": "Added new feature for user authentication",
+        "created_at": "2023-09-13T08:17:27.839Z",
+        "updated_at": "2023-09-12T23:06:34.746Z",
+        "article_id": "b9d106a1-171a-489d-a7eb-09b25ac43c55"
+      },
+      {
+        "id": "48aa5f0d-50af-4595-8249-7eb8a7bdd2a7",
+        "change_log": "Optimized database queries for improved performance",
+        "created_at": "2023-09-12T14:59:46.253Z",
+        "updated_at": "2023-09-12T19:25:13.829Z",
+        "article_id": "4b05ade0-724c-47b6-979d-d0dc289ee6c4"
+      },
+      {
+        "id": "ae9ce769-c140-48d7-8b92-2a7b3858165a",
+        "change_log": "Resolved compatibility issues with latest operating system",
+        "created_at": "2023-09-12T11:50:51.880Z",
+        "updated_at": "2023-09-13T03:49:59.788Z",
+        "article_id": "c143be86-154a-47ac-9452-401ab4cc5aba"
+      }
+    ],
+    "article_keyword": [
+      {
+        "id": "6ef4dcc3-e5a8-450a-9f09-8e8e0ecde142",
+        "created_at": "2023-09-12T15:09:41.978Z",
+        "updated_at": "2023-09-13T08:35:06.091Z",
+        "article_id": "b9d106a1-171a-489d-a7eb-09b25ac43c55",
+        "keyword_id": "4147e3eb-8109-4f28-955c-001fdee13792"
+      },
+      {
+        "id": "ab7f7be6-8491-4e3c-a946-78817d68b6dd",
+        "created_at": "2023-09-13T03:36:59.122Z",
+        "updated_at": "2023-09-13T00:03:23.873Z",
+        "article_id": "b9d106a1-171a-489d-a7eb-09b25ac43c55",
+        "keyword_id": "3bbd1e5c-32d2-4e1d-8c02-d4081ef23072"
+      },
+      {
+        "id": "c4ee0b0c-76c7-434c-b674-56e2f0bbd61e",
+        "created_at": "2023-09-12T11:23:11.098Z",
+        "updated_at": "2023-09-12T12:24:28.276Z",
+        "article_id": "c143be86-154a-47ac-9452-401ab4cc5aba",
+        "keyword_id": "0d17551a-15dc-468c-90bc-553962df1864"
+      },
+      {
+        "id": "c7ff3823-f8f0-44fd-891c-f7dfe4044850",
+        "created_at": "2023-09-12T14:16:00.335Z",
+        "updated_at": "2023-09-12T11:26:51.294Z",
+        "article_id": "c143be86-154a-47ac-9452-401ab4cc5aba",
+        "keyword_id": "d3f43359-2491-4e60-9595-26cbd790a2b9"
+      },
+      {
+        "id": "95e68851-2638-439d-b19e-f63701d7af1c",
+        "created_at": "2023-09-13T00:54:50.989Z",
+        "updated_at": "2023-09-12T19:27:11.567Z",
+        "article_id": "4b05ade0-724c-47b6-979d-d0dc289ee6c4",
+        "keyword_id": "d3f43359-2491-4e60-9595-26cbd790a2b9"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "96d59993-0f4c-4969-bee9-ff99f77fe0bd",
+        "email": "Maximillia_Schmitt85@gmail.com",
+        "firstName": "Vincenzo",
+        "lastName": "O'Reilly",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1059.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c4c3b4a8-6d0d-4ab1-b5e3-755aa2ebf50b",
+        "email": "Carrie.Christiansen88@gmail.com",
+        "firstName": "Clovis",
+        "lastName": "Kub",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56981285",
+        "tenantId": null
+      },
+      {
+        "reference": "58f8a7f6-72fa-4e15-b953-239cdb8b622a",
+        "email": "Alexandrine.Kerluke@yahoo.com",
+        "firstName": "Helen",
+        "lastName": "Fritsch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/52040942",
+        "tenantId": null
+      },
+      {
+        "reference": "0f6ac484-448c-4aa0-a43b-9e30a9ab1f79",
+        "email": "Lyric24@gmail.com",
+        "firstName": "Leanne",
+        "lastName": "Cronin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/749.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ac74bfae-6d87-4555-b762-3ba87dbe41e7",
+        "email": "Katelynn91@gmail.com",
+        "firstName": "Brionna",
+        "lastName": "VonRueden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/63.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "keyword": [
+      {
+        "id": "9e60c544-6feb-48ca-8068-0d40154b0320",
+        "word": "technology",
+        "created_at": "2023-09-13T07:20:21.829Z",
+        "updated_at": "2023-09-12T11:56:20.196Z"
+      },
+      {
+        "id": "cefbcd43-144b-4888-900b-21283f2ab5c4",
+        "word": "environment",
+        "created_at": "2023-09-12T18:39:23.721Z",
+        "updated_at": "2023-09-13T07:29:22.063Z"
+      },
+      {
+        "id": "a404fe04-548a-4c58-8b20-f30b14b6a90f",
+        "word": "innovation",
+        "created_at": "2023-09-13T07:53:25.092Z",
+        "updated_at": "2023-09-12T18:01:23.484Z"
+      },
+      {
+        "id": "ecb1d17b-1fd8-4a6e-b818-19858de416d2",
+        "word": "sustainability",
+        "created_at": "2023-09-12T16:50:53.532Z",
+        "updated_at": "2023-09-13T01:01:18.824Z"
+      },
+      {
+        "id": "837e3557-2dfc-4403-b4d1-38128f281d97",
+        "word": "healthcare",
+        "created_at": "2023-09-13T02:57:00.292Z",
+        "updated_at": "2023-09-13T04:40:03.779Z"
+      }
+    ],
+    "article": [
+      {
+        "id": "ddce3deb-8fd7-46d4-bb93-b9fa3ebcfd2b",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Technology",
+        "created_at": "2023-09-13T09:27:15.280Z",
+        "updated_at": "2023-09-12T11:13:04.018Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "633c94a1-451e-4b6d-a8c5-bfa025361972",
+        "title": "Exploring Sustainable Fashion Trends",
+        "content": "Nulla facilisi. Mauris auctor, erat et lacinia aliquet, ligula neque dignissim nunc, a pulvinar lectus orci ac est.",
+        "category": "Fashion",
+        "created_at": "2023-09-13T01:13:49.263Z",
+        "updated_at": "2023-09-12T22:18:13.055Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "993450e5-505b-46a5-8708-9e32bb13ad48",
+        "title": "Advancements in Healthcare Technology",
+        "content": "Phasellus id leo finibus, ullamcorper nisl ut, tristique ipsum.",
+        "category": "Healthcare",
+        "created_at": "2023-09-12T17:11:53.750Z",
+        "updated_at": "2023-09-12T16:00:49.242Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3948c134-b812-419b-841c-f4148f36e956",
+        "title": "Environmental Conservation Efforts",
+        "content": "Sed finibus velit a justo tristique, nec pellentesque elit vestibulum.",
+        "category": "Environment",
+        "created_at": "2023-09-12T12:12:34.775Z",
+        "updated_at": "2023-09-12T19:01:05.944Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "602b733d-1028-4360-9ffc-0b83b42b9f56",
+        "title": "Innovation in Business Strategies",
+        "content": "Fusce malesuada dolor at tortor eleifend, in lacinia ligula ultrices.",
+        "category": "Business",
+        "created_at": "2023-09-12T22:50:06.730Z",
+        "updated_at": "2023-09-12T16:26:36.587Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "history": [
+      {
+        "id": "5c14ced3-5de0-42f3-a1e1-4b8aa9db62a5",
+        "change_log": "Updated user interface design",
+        "created_at": "2023-09-12T15:07:58.037Z",
+        "updated_at": "2023-09-12T18:59:58.637Z",
+        "article_id": "602b733d-1028-4360-9ffc-0b83b42b9f56"
+      },
+      {
+        "id": "6c1f7f18-b4af-4f40-95d3-d58d182abbea",
+        "change_log": "Fixed bug in data processing algorithm",
+        "created_at": "2023-09-13T04:42:19.525Z",
+        "updated_at": "2023-09-12T12:06:43.509Z",
+        "article_id": "633c94a1-451e-4b6d-a8c5-bfa025361972"
+      },
+      {
+        "id": "d25b3a1f-b31a-48a0-8ab3-83afba34f272",
+        "change_log": "Implemented new feature for user authentication",
+        "created_at": "2023-09-12T11:27:15.107Z",
+        "updated_at": "2023-09-12T11:22:03.386Z",
+        "article_id": "633c94a1-451e-4b6d-a8c5-bfa025361972"
+      },
+      {
+        "id": "97386dde-eb87-453a-8646-d81e44e32659",
+        "change_log": "Optimized database queries for improved performance",
+        "created_at": "2023-09-12T22:22:05.405Z",
+        "updated_at": "2023-09-12T15:12:32.957Z",
+        "article_id": "633c94a1-451e-4b6d-a8c5-bfa025361972"
+      },
+      {
+        "id": "f13be7fd-777f-43e7-9d5d-9aaff60f99d2",
+        "change_log": "Resolved security vulnerability",
+        "created_at": "2023-09-12T17:37:59.681Z",
+        "updated_at": "2023-09-12T20:09:49.871Z",
+        "article_id": "602b733d-1028-4360-9ffc-0b83b42b9f56"
+      }
+    ],
+    "article_keyword": [
+      {
+        "id": "b8e80e5b-32ce-40c3-913a-1641380ea0af",
+        "created_at": "2023-09-12T22:29:31.880Z",
+        "updated_at": "2023-09-12T14:38:10.868Z",
+        "article_id": "633c94a1-451e-4b6d-a8c5-bfa025361972",
+        "keyword_id": "ecb1d17b-1fd8-4a6e-b818-19858de416d2"
+      },
+      {
+        "id": "ad18671d-4208-4669-b654-50604e89e021",
+        "created_at": "2023-09-12T23:18:32.933Z",
+        "updated_at": "2023-09-13T06:21:14.686Z",
+        "article_id": "3948c134-b812-419b-841c-f4148f36e956",
+        "keyword_id": "a404fe04-548a-4c58-8b20-f30b14b6a90f"
+      },
+      {
+        "id": "4194b876-7650-4b4d-911b-4c6e8c8299e2",
+        "created_at": "2023-09-13T07:56:48.741Z",
+        "updated_at": "2023-09-12T23:47:50.150Z",
+        "article_id": "602b733d-1028-4360-9ffc-0b83b42b9f56",
+        "keyword_id": "a404fe04-548a-4c58-8b20-f30b14b6a90f"
+      },
+      {
+        "id": "df99846d-3dab-49e1-bb2f-4f7dfa7dc1a8",
+        "created_at": "2023-09-13T00:36:38.501Z",
+        "updated_at": "2023-09-13T05:08:21.502Z",
+        "article_id": "ddce3deb-8fd7-46d4-bb93-b9fa3ebcfd2b",
+        "keyword_id": "cefbcd43-144b-4888-900b-21283f2ab5c4"
+      },
+      {
+        "id": "9cd28624-08d0-4541-a999-1134480c6bba",
+        "created_at": "2023-09-12T16:31:47.151Z",
+        "updated_at": "2023-09-12T22:44:01.626Z",
+        "article_id": "602b733d-1028-4360-9ffc-0b83b42b9f56",
+        "keyword_id": "9e60c544-6feb-48ca-8068-0d40154b0320"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "214ffe17-8c91-4fbc-b961-94d956f035a9",
+        "email": "Octavia.Bergnaum4@yahoo.com",
+        "firstName": "Stephany",
+        "lastName": "Spencer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/249.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "60f411fc-b4c4-4ff1-8290-ee5650efac2f",
+        "email": "Adella90@gmail.com",
+        "firstName": "Wilbert",
+        "lastName": "Cruickshank",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69806198",
+        "tenantId": null
+      },
+      {
+        "reference": "d9df90c2-5807-465e-963c-f8d40bd76670",
+        "email": "Amalia.Koss48@yahoo.com",
+        "firstName": "Reyes",
+        "lastName": "Reilly",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/1089782",
+        "tenantId": null
+      },
+      {
+        "reference": "5ab6de1c-c7be-4bdb-a758-e038140f6c87",
+        "email": "Genevieve_Bradtke37@hotmail.com",
+        "firstName": "Isaac",
+        "lastName": "Glover",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1183.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a498addf-df4f-4c8d-91b4-d7443e761be5",
+        "email": "Vicenta61@hotmail.com",
+        "firstName": "Urban",
+        "lastName": "Anderson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12937630",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "keyword": [
+      {
+        "id": "4bf20d2a-3ab0-4344-bbe8-cc9f4e753003",
+        "word": "technology",
+        "created_at": "2023-09-12T22:23:17.283Z",
+        "updated_at": "2023-09-13T08:51:30.749Z"
+      },
+      {
+        "id": "54b81403-c606-4ec5-9bea-1d5ad69f8ad3",
+        "word": "innovation",
+        "created_at": "2023-09-13T02:25:41.836Z",
+        "updated_at": "2023-09-12T10:21:33.047Z"
+      },
+      {
+        "id": "f5d0bed6-5d17-4ff2-a689-7b8b566f16b7",
+        "word": "sustainability",
+        "created_at": "2023-09-13T00:32:51.158Z",
+        "updated_at": "2023-09-12T18:06:34.340Z"
+      },
+      {
+        "id": "71a09203-dc8a-4d7b-9cb4-f6db08cd6ce4",
+        "word": "healthcare",
+        "created_at": "2023-09-13T01:32:02.614Z",
+        "updated_at": "2023-09-12T14:10:24.903Z"
+      },
+      {
+        "id": "b5febaba-de5c-456e-9fa4-beba78236ae9",
+        "word": "environment",
+        "created_at": "2023-09-13T01:47:08.570Z",
+        "updated_at": "2023-09-13T04:03:01.867Z"
+      }
+    ],
+    "article": [
+      {
+        "id": "a45897c7-cf53-442b-8e4e-76303672fc03",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Technology",
+        "created_at": "2023-09-13T02:38:33.729Z",
+        "updated_at": "2023-09-13T07:16:24.443Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bc7b27d9-5f48-43b2-b4f6-d3a02c4fae3a",
+        "title": "Exploring Sustainable Fashion Trends",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "category": "Fashion",
+        "created_at": "2023-09-12T17:58:39.628Z",
+        "updated_at": "2023-09-13T07:28:56.634Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "29795a63-c460-4ae5-8c1d-ab398ea52903",
+        "title": "Improving Healthcare with Technology",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "category": "Healthcare",
+        "created_at": "2023-09-12T13:12:10.315Z",
+        "updated_at": "2023-09-13T07:11:32.935Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c51cae86-7f53-4198-b988-dcec6dd5ee0b",
+        "title": "The Importance of Environmental Conservation",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "category": "Environment",
+        "created_at": "2023-09-13T08:38:04.209Z",
+        "updated_at": "2023-09-12T13:30:37.418Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8694d6bc-6eec-458b-a914-37eb6e2d8a58",
+        "title": "Business Strategies for Success",
+        "content": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+        "category": "Business",
+        "created_at": "2023-09-12T16:59:42.186Z",
+        "updated_at": "2023-09-12T16:12:28.895Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "history": [
+      {
+        "id": "136a1b74-3f01-4107-b7c7-2eac48b90063",
+        "change_log": "Updated user profile information",
+        "created_at": "2023-09-12T11:26:24.019Z",
+        "updated_at": "2023-09-12T19:13:49.452Z",
+        "article_id": "a45897c7-cf53-442b-8e4e-76303672fc03"
+      },
+      {
+        "id": "4db77350-5d8a-4645-b5fe-fb6f6c2d2948",
+        "change_log": "Added new feature to the system",
+        "created_at": "2023-09-13T10:04:47.594Z",
+        "updated_at": "2023-09-13T07:01:14.903Z",
+        "article_id": "29795a63-c460-4ae5-8c1d-ab398ea52903"
+      },
+      {
+        "id": "80fa06fb-7cdc-40de-a5db-4c7bbf1014b4",
+        "change_log": "Fixed a bug in the application",
+        "created_at": "2023-09-13T03:28:35.816Z",
+        "updated_at": "2023-09-12T20:42:47.098Z",
+        "article_id": "29795a63-c460-4ae5-8c1d-ab398ea52903"
+      },
+      {
+        "id": "1e29e12e-28b8-499a-89af-27c21b5a58e2",
+        "change_log": "Implemented security enhancements",
+        "created_at": "2023-09-12T19:42:36.505Z",
+        "updated_at": "2023-09-12T22:27:57.751Z",
+        "article_id": "8694d6bc-6eec-458b-a914-37eb6e2d8a58"
+      },
+      {
+        "id": "e008eba7-3278-4c4b-861a-dcfe919f8408",
+        "change_log": "Optimized database performance",
+        "created_at": "2023-09-13T04:37:25.008Z",
+        "updated_at": "2023-09-12T18:55:21.324Z",
+        "article_id": "bc7b27d9-5f48-43b2-b4f6-d3a02c4fae3a"
+      }
+    ],
+    "article_keyword": [
+      {
+        "id": "18b10b58-35ed-42df-bc36-1880adc8ac30",
+        "created_at": "2023-09-13T07:08:49.116Z",
+        "updated_at": "2023-09-13T08:54:13.081Z",
+        "article_id": "a45897c7-cf53-442b-8e4e-76303672fc03",
+        "keyword_id": "4bf20d2a-3ab0-4344-bbe8-cc9f4e753003"
+      },
+      {
+        "id": "c6d9b454-7a7a-4e98-9501-810b5ab37962",
+        "created_at": "2023-09-12T13:45:41.778Z",
+        "updated_at": "2023-09-13T04:51:09.303Z",
+        "article_id": "a45897c7-cf53-442b-8e4e-76303672fc03",
+        "keyword_id": "b5febaba-de5c-456e-9fa4-beba78236ae9"
+      },
+      {
+        "id": "9564b110-facb-4b16-bb94-f52228a8e655",
+        "created_at": "2023-09-13T00:57:56.800Z",
+        "updated_at": "2023-09-13T07:29:15.605Z",
+        "article_id": "a45897c7-cf53-442b-8e4e-76303672fc03",
+        "keyword_id": "b5febaba-de5c-456e-9fa4-beba78236ae9"
+      },
+      {
+        "id": "15523133-a8ef-493a-960f-075680909dcb",
+        "created_at": "2023-09-12T10:31:05.711Z",
+        "updated_at": "2023-09-12T16:12:25.786Z",
+        "article_id": "a45897c7-cf53-442b-8e4e-76303672fc03",
+        "keyword_id": "b5febaba-de5c-456e-9fa4-beba78236ae9"
+      },
+      {
+        "id": "dae72c7b-6f98-4780-8ec7-2883e97d59f1",
+        "created_at": "2023-09-13T07:03:56.738Z",
+        "updated_at": "2023-09-12T14:54:21.365Z",
+        "article_id": "8694d6bc-6eec-458b-a914-37eb6e2d8a58",
+        "keyword_id": "b5febaba-de5c-456e-9fa4-beba78236ae9"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ad0eec93-d95c-4680-898b-a89675ef29dd",
+        "email": "Loren56@yahoo.com",
+        "firstName": "Keyshawn",
+        "lastName": "Fisher",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1000.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "974b8c62-4dfa-40fe-8e8c-ed49dc0bf2c5",
+        "email": "Aniyah_Howe-Kling@gmail.com",
+        "firstName": "Vicente",
+        "lastName": "Terry",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/86461263",
+        "tenantId": null
+      },
+      {
+        "reference": "99ad7b04-335a-4745-8495-5786f976ba7c",
+        "email": "Elmo.Pfeffer@gmail.com",
+        "firstName": "Cynthia",
+        "lastName": "Davis",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/915.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8d889c1a-6307-4558-a504-2b6b3db9d3d4",
+        "email": "Aron.Tromp59@yahoo.com",
+        "firstName": "Clara",
+        "lastName": "Cummerata-Baumbach",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60697211",
+        "tenantId": null
+      },
+      {
+        "reference": "f977457e-1e00-43db-99be-90606fb3c414",
+        "email": "Kareem2@yahoo.com",
+        "firstName": "Orin",
+        "lastName": "Funk",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76466655",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "keyword": [
+      {
+        "id": "0b90236b-178b-42a9-ad09-d57122ea3320",
+        "word": "technology",
+        "created_at": "2023-09-13T09:53:54.928Z",
+        "updated_at": "2023-09-13T04:27:47.700Z"
+      },
+      {
+        "id": "5ecbbefd-9271-473a-8f10-a98541b33bde",
+        "word": "innovation",
+        "created_at": "2023-09-12T19:02:13.330Z",
+        "updated_at": "2023-09-12T14:10:24.766Z"
+      },
+      {
+        "id": "01f07e29-2a17-40ae-ac5a-91e7c792969e",
+        "word": "sustainability",
+        "created_at": "2023-09-13T05:34:38.187Z",
+        "updated_at": "2023-09-13T10:00:47.795Z"
+      },
+      {
+        "id": "c9d2b164-d60b-4156-954d-207928e497f1",
+        "word": "education",
+        "created_at": "2023-09-12T22:26:29.554Z",
+        "updated_at": "2023-09-13T04:10:09.500Z"
+      },
+      {
+        "id": "2db90fc1-561f-4b15-af12-85aa2411eea3",
+        "word": "healthcare",
+        "created_at": "2023-09-13T05:46:57.943Z",
+        "updated_at": "2023-09-12T10:56:43.982Z"
+      }
+    ],
+    "article": [
+      {
+        "id": "4214bf45-f411-42db-bce1-50534675406f",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Technology",
+        "created_at": "2023-09-13T01:28:33.136Z",
+        "updated_at": "2023-09-12T21:20:15.070Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "39e33b39-bf5f-4eb4-9d27-ccb7fc8ddf93",
+        "title": "The Importance of Sustainable Living",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "category": "Environment",
+        "created_at": "2023-09-13T01:01:42.350Z",
+        "updated_at": "2023-09-12T12:41:45.338Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "222622a0-a00b-4d9f-a976-3e82c468990b",
+        "title": "How to Excel in Online Learning",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "category": "Education",
+        "created_at": "2023-09-13T00:01:07.672Z",
+        "updated_at": "2023-09-13T07:22:40.869Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "150d0c56-25ee-4004-84f3-46fb586b03de",
+        "title": "Exploring the Latest Technological Innovations",
+        "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+        "category": "Innovation",
+        "created_at": "2023-09-13T01:53:03.350Z",
+        "updated_at": "2023-09-13T03:43:20.890Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5b6c2a30-7895-41cb-a7ae-acbc4891927d",
+        "title": "The Role of Technology in Healthcare",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "category": "Healthcare",
+        "created_at": "2023-09-13T03:15:48.645Z",
+        "updated_at": "2023-09-12T19:09:52.814Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "history": [
+      {
+        "id": "40ba5aa9-8e13-4f38-a0bb-3e1250722d28",
+        "change_log": "Updated user interface design",
+        "created_at": "2023-09-12T19:38:00.180Z",
+        "updated_at": "2023-09-12T20:16:17.374Z",
+        "article_id": "39e33b39-bf5f-4eb4-9d27-ccb7fc8ddf93"
+      },
+      {
+        "id": "fd1354f1-bf46-42c4-97d0-843b783a6f82",
+        "change_log": "Fixed bug related to data validation",
+        "created_at": "2023-09-13T09:05:46.339Z",
+        "updated_at": "2023-09-13T06:07:26.683Z",
+        "article_id": "39e33b39-bf5f-4eb4-9d27-ccb7fc8ddf93"
+      },
+      {
+        "id": "27bd522f-a050-4fb1-85a7-3a3dcbce91ac",
+        "change_log": "Implemented new feature for enhanced user experience",
+        "created_at": "2023-09-12T22:25:18.872Z",
+        "updated_at": "2023-09-12T14:35:54.068Z",
+        "article_id": "4214bf45-f411-42db-bce1-50534675406f"
+      },
+      {
+        "id": "80dd74d4-eadd-45c9-897a-5772630b6d71",
+        "change_log": "Optimized database queries for improved performance",
+        "created_at": "2023-09-12T16:47:22.192Z",
+        "updated_at": "2023-09-13T06:00:36.590Z",
+        "article_id": "150d0c56-25ee-4004-84f3-46fb586b03de"
+      },
+      {
+        "id": "afda385c-3fca-41a2-9027-cf5763b17ed6",
+        "change_log": "Resolved compatibility issues with latest operating system",
+        "created_at": "2023-09-13T07:57:37.217Z",
+        "updated_at": "2023-09-13T00:19:35.525Z",
+        "article_id": "4214bf45-f411-42db-bce1-50534675406f"
+      }
+    ],
+    "article_keyword": [
+      {
+        "id": "77c7c0c8-50c7-4690-a9f3-20b4ea923032",
+        "created_at": "2023-09-13T09:13:46.347Z",
+        "updated_at": "2023-09-12T15:56:29.354Z",
+        "article_id": "5b6c2a30-7895-41cb-a7ae-acbc4891927d",
+        "keyword_id": "5ecbbefd-9271-473a-8f10-a98541b33bde"
+      },
+      {
+        "id": "1dafb52d-5517-4fdb-b6e4-ef56a38cd321",
+        "created_at": "2023-09-12T18:30:51.072Z",
+        "updated_at": "2023-09-13T06:47:06.668Z",
+        "article_id": "39e33b39-bf5f-4eb4-9d27-ccb7fc8ddf93",
+        "keyword_id": "c9d2b164-d60b-4156-954d-207928e497f1"
+      },
+      {
+        "id": "90295e64-3e71-4486-a5d2-25b9f0dc0258",
+        "created_at": "2023-09-13T08:12:04.151Z",
+        "updated_at": "2023-09-12T13:49:02.173Z",
+        "article_id": "222622a0-a00b-4d9f-a976-3e82c468990b",
+        "keyword_id": "0b90236b-178b-42a9-ad09-d57122ea3320"
+      },
+      {
+        "id": "ace3ee7c-2799-4d73-b0d2-4ce1faff6032",
+        "created_at": "2023-09-12T14:38:08.613Z",
+        "updated_at": "2023-09-12T19:03:33.381Z",
+        "article_id": "150d0c56-25ee-4004-84f3-46fb586b03de",
+        "keyword_id": "0b90236b-178b-42a9-ad09-d57122ea3320"
+      },
+      {
+        "id": "981f83b2-1b9b-4847-bd14-cd5e13856633",
+        "created_at": "2023-09-12T14:41:44.762Z",
+        "updated_at": "2023-09-12T13:26:01.098Z",
+        "article_id": "222622a0-a00b-4d9f-a976-3e82c468990b",
+        "keyword_id": "0b90236b-178b-42a9-ad09-d57122ea3320"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "98ae213b-94ed-4b82-8247-5a2226c6f54d",
+        "email": "Lonnie.Tillman@hotmail.com",
+        "firstName": "Broderick",
+        "lastName": "McClure",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/9851378",
+        "tenantId": null
+      },
+      {
+        "reference": "871b7e82-79aa-408a-9b21-0ee7619169c1",
+        "email": "Brady_MacGyver81@hotmail.com",
+        "firstName": "Kenneth",
+        "lastName": "Nikolaus",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/767.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5ffae4d7-644e-4700-bb77-1a4500984d7d",
+        "email": "Milton.Bernier@gmail.com",
+        "firstName": "Beulah",
+        "lastName": "Schultz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1071.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b6e84bdb-19a4-4567-8459-869643faa62f",
+        "email": "Lew79@yahoo.com",
+        "firstName": "Kaitlin",
+        "lastName": "Herman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23372348",
+        "tenantId": null
+      },
+      {
+        "reference": "a125a7d2-4925-4e5f-a756-ef340f041814",
+        "email": "Maddison3@hotmail.com",
+        "firstName": "Arvid",
+        "lastName": "Kozey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/979.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "keyword": [
+      {
+        "id": "97e25e2b-ac00-43eb-868e-7055049360e2",
+        "word": "technology",
+        "created_at": "2023-09-12T22:16:02.330Z",
+        "updated_at": "2023-09-12T21:33:45.590Z"
+      },
+      {
+        "id": "47b95426-76f3-4f20-a01c-eb647e91f25d",
+        "word": "environment",
+        "created_at": "2023-09-12T23:41:38.935Z",
+        "updated_at": "2023-09-13T04:23:11.062Z"
+      },
+      {
+        "id": "afc0452e-a25d-456a-9693-3c834579e689",
+        "word": "education",
+        "created_at": "2023-09-12T13:53:57.588Z",
+        "updated_at": "2023-09-12T20:42:36.374Z"
+      },
+      {
+        "id": "7b16cad2-8a63-4f11-bf17-67e2d08f8cbc",
+        "word": "healthcare",
+        "created_at": "2023-09-12T14:35:43.195Z",
+        "updated_at": "2023-09-13T03:36:12.883Z"
+      },
+      {
+        "id": "05145e69-103d-4f06-868e-05da02c8862c",
+        "word": "innovation",
+        "created_at": "2023-09-13T03:25:39.456Z",
+        "updated_at": "2023-09-12T22:48:03.331Z"
+      }
+    ],
+    "article": [
+      {
+        "id": "758d644a-857a-41bc-9891-e713a97d3cc7",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Technology",
+        "created_at": "2023-09-13T00:06:50.607Z",
+        "updated_at": "2023-09-13T02:00:25.207Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "253ae017-49ad-4864-83f3-649d40d15fde",
+        "title": "Exploring Sustainable Energy Solutions",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+        "category": "Environment",
+        "created_at": "2023-09-12T17:23:10.698Z",
+        "updated_at": "2023-09-12T16:42:59.712Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "29a19583-21ea-4ff6-89e6-d4421ae5c817",
+        "title": "The Importance of Quality Education",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "category": "Education",
+        "created_at": "2023-09-13T08:51:16.159Z",
+        "updated_at": "2023-09-13T08:32:15.079Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9e39bf17-4039-415f-97b8-c27e5aa99683",
+        "title": "Revolutionizing Healthcare with Technology",
+        "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+        "category": "Healthcare",
+        "created_at": "2023-09-13T04:35:38.098Z",
+        "updated_at": "2023-09-13T03:00:54.862Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c240bfd8-6eb9-4453-8fd1-1a49d0e3df33",
+        "title": "Innovation in the Digital Age",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "category": "Innovation",
+        "created_at": "2023-09-13T03:46:54.676Z",
+        "updated_at": "2023-09-12T14:57:58.692Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "history": [
+      {
+        "id": "b502a18d-d797-41b6-8365-b6de91db3f5d",
+        "change_log": "Updated user interface design",
+        "created_at": "2023-09-12T18:05:09.038Z",
+        "updated_at": "2023-09-12T10:06:18.586Z",
+        "article_id": "758d644a-857a-41bc-9891-e713a97d3cc7"
+      },
+      {
+        "id": "f387752a-4dd8-48f9-aaac-56efd925667e",
+        "change_log": "Fixed bug in authentication system",
+        "created_at": "2023-09-13T02:57:09.432Z",
+        "updated_at": "2023-09-12T13:21:10.001Z",
+        "article_id": "29a19583-21ea-4ff6-89e6-d4421ae5c817"
+      },
+      {
+        "id": "5ff27d99-fc76-4983-bc99-b51bf748ddd0",
+        "change_log": "Added new feature for data analysis",
+        "created_at": "2023-09-12T17:41:07.400Z",
+        "updated_at": "2023-09-13T09:29:49.178Z",
+        "article_id": "253ae017-49ad-4864-83f3-649d40d15fde"
+      },
+      {
+        "id": "84503743-d22f-4937-8683-0774711673e4",
+        "change_log": "Optimized database performance",
+        "created_at": "2023-09-13T00:14:09.163Z",
+        "updated_at": "2023-09-12T18:22:44.721Z",
+        "article_id": "9e39bf17-4039-415f-97b8-c27e5aa99683"
+      },
+      {
+        "id": "0afc57f5-5e21-4e4c-9c8f-9da779ce72da",
+        "change_log": "Resolved compatibility issues with latest operating system",
+        "created_at": "2023-09-12T18:41:26.005Z",
+        "updated_at": "2023-09-13T03:25:54.156Z",
+        "article_id": "c240bfd8-6eb9-4453-8fd1-1a49d0e3df33"
+      }
+    ],
+    "article_keyword": [
+      {
+        "id": "8374d563-645c-4098-bb49-bfdeb21ec455",
+        "created_at": "2023-09-12T22:01:24.380Z",
+        "updated_at": "2023-09-12T20:34:15.431Z",
+        "article_id": "253ae017-49ad-4864-83f3-649d40d15fde",
+        "keyword_id": "47b95426-76f3-4f20-a01c-eb647e91f25d"
+      },
+      {
+        "id": "e4d0dcb2-a301-4256-b9f4-4ea4f14c2cd9",
+        "created_at": "2023-09-12T23:08:39.698Z",
+        "updated_at": "2023-09-12T18:36:55.344Z",
+        "article_id": "29a19583-21ea-4ff6-89e6-d4421ae5c817",
+        "keyword_id": "47b95426-76f3-4f20-a01c-eb647e91f25d"
+      },
+      {
+        "id": "d9e9a004-bd6a-4343-af94-2c9e8c10d04f",
+        "created_at": "2023-09-12T12:04:58.972Z",
+        "updated_at": "2023-09-12T14:19:16.903Z",
+        "article_id": "758d644a-857a-41bc-9891-e713a97d3cc7",
+        "keyword_id": "47b95426-76f3-4f20-a01c-eb647e91f25d"
+      },
+      {
+        "id": "540be2b3-705c-49e0-a49a-796330ad21b9",
+        "created_at": "2023-09-12T13:24:19.849Z",
+        "updated_at": "2023-09-13T01:14:43.887Z",
+        "article_id": "29a19583-21ea-4ff6-89e6-d4421ae5c817",
+        "keyword_id": "7b16cad2-8a63-4f11-bf17-67e2d08f8cbc"
+      },
+      {
+        "id": "0a1bc2c7-c4c6-4274-9036-9a156d616def",
+        "created_at": "2023-09-13T06:07:40.950Z",
+        "updated_at": "2023-09-12T10:48:59.038Z",
+        "article_id": "758d644a-857a-41bc-9891-e713a97d3cc7",
+        "keyword_id": "05145e69-103d-4f06-868e-05da02c8862c"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "afc08233-0b4a-4afb-90c5-d52e778d6938",
+        "email": "Abbey.Weber@hotmail.com",
+        "firstName": "Montana",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1182.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f257f1d6-5504-4c15-a410-ec204eccace9",
+        "email": "Mireya49@hotmail.com",
+        "firstName": "Archibald",
+        "lastName": "Zemlak",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10232369",
+        "tenantId": null
+      },
+      {
+        "reference": "638cf2cb-b5a3-49bc-b6e5-1457d3b2f060",
+        "email": "Alejandrin26@yahoo.com",
+        "firstName": "Linnie",
+        "lastName": "Gottlieb",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/159.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "14f58329-8113-421e-8fda-3f8937fdef10",
+        "email": "Jazmyn_OKeefe63@gmail.com",
+        "firstName": "Shana",
+        "lastName": "Rowe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1046.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7add60b5-392a-482d-a2f0-9371a547e7c7",
+        "email": "Ronny_Dibbert@yahoo.com",
+        "firstName": "Melany",
+        "lastName": "Lesch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45500414",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "keyword": [
+      {
+        "id": "6bdb956e-4f06-4cd0-ab3a-236c4afb0112",
+        "word": "technology",
+        "created_at": "2023-09-13T04:46:34.931Z",
+        "updated_at": "2023-09-12T13:21:50.178Z"
+      },
+      {
+        "id": "d2c5ae43-1da0-406e-bac5-116d685bcf02",
+        "word": "education",
+        "created_at": "2023-09-12T10:13:35.991Z",
+        "updated_at": "2023-09-13T03:16:07.777Z"
+      },
+      {
+        "id": "e89a4b84-7fb0-4063-940d-a30783cef67f",
+        "word": "environment",
+        "created_at": "2023-09-13T06:59:43.142Z",
+        "updated_at": "2023-09-13T03:12:16.655Z"
+      },
+      {
+        "id": "833796ef-2971-4092-afa1-89c7d8ae4b2f",
+        "word": "healthcare",
+        "created_at": "2023-09-13T00:38:27.418Z",
+        "updated_at": "2023-09-13T08:32:52.044Z"
+      },
+      {
+        "id": "0fc9a287-e181-4687-91db-c473fb0537ea",
+        "word": "art",
+        "created_at": "2023-09-12T12:07:52.958Z",
+        "updated_at": "2023-09-13T02:41:40.196Z"
+      }
+    ],
+    "article": [
+      {
+        "id": "fd5a87be-b7e3-4b6a-b1e9-faf37cf0e956",
+        "title": "The Future of Artificial Intelligence",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "category": "Technology",
+        "created_at": "2023-09-12T12:47:13.229Z",
+        "updated_at": "2023-09-12T22:59:09.409Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f59217b7-d8cb-44cd-9b5c-2c46c18e223b",
+        "title": "Revolutionizing Education with Technology",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "category": "Education",
+        "created_at": "2023-09-12T12:24:46.068Z",
+        "updated_at": "2023-09-12T12:23:39.317Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "600e99be-3f96-4e3b-8ed1-f99631184f8c",
+        "title": "Preserving Our Planet: Environmental Conservation Efforts",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "category": "Environment",
+        "created_at": "2023-09-12T23:50:03.772Z",
+        "updated_at": "2023-09-13T05:09:48.642Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "63558157-1a36-4c1e-b88a-6dd2cf2bc065",
+        "title": "Improving Healthcare Access for All",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "category": "Healthcare",
+        "created_at": "2023-09-12T14:12:29.674Z",
+        "updated_at": "2023-09-13T05:53:49.856Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7c57d0fd-9681-40ec-a3f5-79fc08f5273b",
+        "title": "Celebrating Local Artists: A Showcase of Talent",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+        "category": "Art",
+        "created_at": "2023-09-12T19:11:03.780Z",
+        "updated_at": "2023-09-12T11:24:58.678Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "history": [
+      {
+        "id": "8e4afaa9-e9a3-412d-b54c-ead5088fe27d",
+        "change_log": "Updated user authentication process",
+        "created_at": "2023-09-12T22:21:48.677Z",
+        "updated_at": "2023-09-13T00:25:40.835Z",
+        "article_id": "600e99be-3f96-4e3b-8ed1-f99631184f8c"
+      },
+      {
+        "id": "85655cfe-790d-41d5-aa1b-2242f755cd30",
+        "change_log": "Implemented new feature for data analysis",
+        "created_at": "2023-09-13T05:19:06.464Z",
+        "updated_at": "2023-09-13T02:25:15.353Z",
+        "article_id": "f59217b7-d8cb-44cd-9b5c-2c46c18e223b"
+      },
+      {
+        "id": "775712f9-1c1e-4f83-98d4-c74d7932f4ce",
+        "change_log": "Optimized website performance",
+        "created_at": "2023-09-12T11:46:38.484Z",
+        "updated_at": "2023-09-13T06:59:33.541Z",
+        "article_id": "fd5a87be-b7e3-4b6a-b1e9-faf37cf0e956"
+      },
+      {
+        "id": "860c9ffe-2745-48c9-a513-cee42006eba8",
+        "change_log": "Resolved bug causing system crash",
+        "created_at": "2023-09-12T12:52:11.904Z",
+        "updated_at": "2023-09-13T02:43:51.178Z",
+        "article_id": "600e99be-3f96-4e3b-8ed1-f99631184f8c"
+      },
+      {
+        "id": "05e44086-dd69-4015-9af0-15712377f954",
+        "change_log": "Added support for multiple languages",
+        "created_at": "2023-09-12T12:00:44.700Z",
+        "updated_at": "2023-09-12T11:22:18.265Z",
+        "article_id": "7c57d0fd-9681-40ec-a3f5-79fc08f5273b"
+      }
+    ],
+    "article_keyword": [
+      {
+        "id": "b5d377e1-c65e-484c-9285-d65af8700335",
+        "created_at": "2023-09-12T22:36:27.437Z",
+        "updated_at": "2023-09-13T10:02:28.462Z",
+        "article_id": "63558157-1a36-4c1e-b88a-6dd2cf2bc065",
+        "keyword_id": "d2c5ae43-1da0-406e-bac5-116d685bcf02"
+      },
+      {
+        "id": "41a8a278-02ce-4a55-9a56-e2eff66ef0fd",
+        "created_at": "2023-09-13T01:28:14.623Z",
+        "updated_at": "2023-09-13T08:06:44.951Z",
+        "article_id": "7c57d0fd-9681-40ec-a3f5-79fc08f5273b",
+        "keyword_id": "d2c5ae43-1da0-406e-bac5-116d685bcf02"
+      },
+      {
+        "id": "bba1c630-d9eb-45a7-98af-e2aa54fdad5f",
+        "created_at": "2023-09-12T20:27:31.341Z",
+        "updated_at": "2023-09-12T17:57:12.157Z",
+        "article_id": "63558157-1a36-4c1e-b88a-6dd2cf2bc065",
+        "keyword_id": "e89a4b84-7fb0-4063-940d-a30783cef67f"
+      },
+      {
+        "id": "0672bc84-5e9f-42a9-851e-3953effbf3ff",
+        "created_at": "2023-09-13T10:00:34.629Z",
+        "updated_at": "2023-09-13T08:13:19.160Z",
+        "article_id": "7c57d0fd-9681-40ec-a3f5-79fc08f5273b",
+        "keyword_id": "6bdb956e-4f06-4cd0-ab3a-236c4afb0112"
+      },
+      {
+        "id": "56d0a8f2-dffc-4d78-bf69-edd30663f0e1",
+        "created_at": "2023-09-13T05:37:49.152Z",
+        "updated_at": "2023-09-13T05:56:14.214Z",
+        "article_id": "7c57d0fd-9681-40ec-a3f5-79fc08f5273b",
+        "keyword_id": "0fc9a287-e181-4687-91db-c473fb0537ea"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "67694dc9-fa75-430b-92b2-0d20fb289f9d",
+        "email": "Ashly.Brown@hotmail.com",
+        "firstName": "Dylan",
+        "lastName": "Cummerata",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60239130",
+        "tenantId": null
+      },
+      {
+        "reference": "6c946b8f-e21d-412c-8cc2-4c493f2447ae",
+        "email": "Aliyah.Koepp-Morissette52@hotmail.com",
+        "firstName": "Jadyn",
+        "lastName": "Johnson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71887169",
+        "tenantId": null
+      },
+      {
+        "reference": "95f1aa03-46a4-4478-a1ec-561a2f030b06",
+        "email": "Gideon_Schumm8@gmail.com",
+        "firstName": "Cristina",
+        "lastName": "Pagac",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/881.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "50be6c53-01e2-4214-b1ae-d2e922afdfbf",
+        "email": "Mark48@yahoo.com",
+        "firstName": "Leola",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/258.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7f55006e-769c-4556-a75a-e4746ffe50c5",
+        "email": "Zane67@yahoo.com",
+        "firstName": "Chester",
+        "lastName": "Hettinger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/543.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
